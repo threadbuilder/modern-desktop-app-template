@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "Product Name",
+    "productName": "FirstTauri App",
     "version": "../package.json"
   },
   "build": {
@@ -18,7 +18,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "App.Name",
+      "identifier": "HF.FirstApp",
       "publisher": "Unknown Publisher",
       "copyright": "Copyright Notice",
       "icon": [
@@ -154,7 +154,7 @@
     },
     "windows": [
       {
-        "title": "tauri.conf.json > tauri > windows > title",
+        "title": "tauri.conf.json > tauri > windows > firstapp",
         "label": "main",
         "minWidth": 1000,
         "minHeight": 600,
